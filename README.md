@@ -1,3 +1,3 @@
 # CodePathLab4
 
-All lab requirements completed.
+This lab uses the Navigatoin Drawer to switch between fragments. 
