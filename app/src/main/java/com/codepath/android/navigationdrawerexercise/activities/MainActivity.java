@@ -80,10 +80,8 @@ public class MainActivity extends AppCompatActivity {
             case R.id.simpsons:
                 fragmentClass = SimpsonsFragment.class;
                 break;
-            case R.id.futurama:
-                fragmentClass = FuturamaFragment.class;
             default:
-                fragmentClass = SouthParkFragment.class;
+                fragmentClass = FuturamaFragment.class;
         }
 
         try {
